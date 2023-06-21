@@ -1,0 +1,27 @@
+body {
+    margin: 50px 0px 50px 0px;
+
+}
+
+div#box {
+    display: flex;
+    align-items: center;
+}
+
+div#txt {
+    border: 5px solid black;
+    border-right: 0px;
+    text-align: right;
+    padding: 30px 40px 30px 80px;
+    margin-left: 220px;
+
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+}
+
+h4 {
+    margin-bottom: 10px;
+    font-family: 'Lato', sans-serif;
+}
