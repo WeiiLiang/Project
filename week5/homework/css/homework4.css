@@ -1,0 +1,31 @@
+body {
+    margin-top: 20 0px;
+    background-color: black;
+}
+
+div#box {
+    display: flex;
+    align-items: center;
+    border-right: 3px solid white;
+
+}
+
+div#txt {
+    border-left: 3px solid white;
+    border-right: 3px solid white;
+    padding: 250px 50px 250px 50px;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+
+h1 {
+    color: white;
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    color: white;
+    font-size: 25sp;
+}

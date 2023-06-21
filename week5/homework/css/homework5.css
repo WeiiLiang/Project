@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+div#box {
+    display: flex;
+    align-items: center;
+    margin: 50px 50px 0px 50px;
+}
+
+div#title {
+    margin-right: 50px;
+    width: 250px;
+}
+
+div#txt1 {
+    margin: 200px 0px 50px 50px;
+    border-bottom: 3px solid white;
+    width: 250px;
+}
+
+div#txt2 {
+    margin: 200px 0px 50px 50px;
+    border-bottom: 3px solid white;
+    width: 250px;
+}
+
+div#txt3 {
+    margin: 200px 0px 50px 50px;
+    border-bottom: 3px solid white;
+    width: 250px;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+}
