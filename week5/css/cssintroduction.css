@@ -1,0 +1,31 @@
+body {
+    /*background-color: lightgrey;*/
+    background-image: url(../img/background1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+
+
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+div#h1 {
+    background-image: url(../img/neuc\ logo.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+}
+
+div#p {
+    background-image: url(../img/p\ background.png);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+p {
+    font-size: 25px;
+    color: white;
+}

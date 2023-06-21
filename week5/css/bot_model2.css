@@ -1,0 +1,25 @@
+div#one {
+    width: fit-content;
+    background-image: url(../img/easy-beach-drawing-step-9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    padding: 50px;
+    border: 3px solid black;
+    margin: 20px;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+div#two {
+    background-image: url(../img/sky.jpg);
+    background-size: contain;
+    background-repeat: repeat;
+
+    padding: 50px;
+    border: 3px solid black;
+    margin: 20px;
+}
