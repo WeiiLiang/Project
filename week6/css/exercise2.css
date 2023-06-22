@@ -105,20 +105,8 @@ body {
 }
 
 
-
-
-@media screen and (max-width:800px) {
-    .row {
-        flex-wrap: wrap;
-    }
-
-    .column {
-        width: 50%;
-    }
-}
-
-@media screen and (max-width:480px) {
-    .row {
+@media screen and (max-width:600px) {
+    #content {
         flex-direction: column;
     }
 
