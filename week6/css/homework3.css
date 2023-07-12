@@ -1,0 +1,29 @@
+body {
+    background-color: #f1f1f1;
+
+}
+
+#container {
+    max-width: 1024px;
+    margin: auto;
+}
+
+#intro {
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px 0 30px 0;
+}
+
+.homework {
+    background-color: white;
+}
+
+.homework {
+    text-align: center;
+}
+
+.homework a {
+    font-size: 30px;
+
+}
