@@ -59,13 +59,29 @@
 
 #content2 {
     background-color: #19a7ce;
-    padding-bottom: 300px;
 }
 
 #content2 h1 {
     font-size: 40px;
     color: #f6f1f1;
     padding: 40px 0 10px 80px;
+}
+
+.line {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.language {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.bar progress {
+    padding: 25px;
+    width: 250px;
 }
 
 #content3 h1 {
